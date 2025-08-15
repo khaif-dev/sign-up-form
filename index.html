@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  <title>Odin Sign up form</title>
+</head>
+<body>
+<div class="container">
+  <div class="background">
+    <img src="background.jpg" alt="background image">
+    <div class="logo">
+      <img src="odin-lined.png" alt="odin logo">
+    </div>
+  </div>
+  <div class="form-container">
+    <form action="#" method="post">
+      <h1>Let's do this!</h1>
+      <label for="firstname">FIRST NAME:<span>*</span></label><br>
+      <input type="text" id="firstname" name="first_name" placeholder="Jane" required><br>
+      <label for="lastname">LAST NAME:<span>*</span></label><br>
+      <input type="text" id="lastname" name="last_name" placeholder="Doe" required><br>
+      <label for="email">EMAIL:<span>*</span></label><br>
+      <input type="text" id="email" name="user_email" placeholder="example@gmail.com" required><br>
+      <label for="phone_no">PHONE NUMBER:</label><br>
+      <input type="text" id="phone_no" name="phone_no" placeholder="+254712345678" minlength="8" maxlength="16"><br>
+      <label for="password">ENTER PASSWORD<span>*</span></label>
+      <input type="text" id="password" name="password" placeholder="**********" minlength="8" maxlength="12"><br>
+      <label for="confirm_password">CONFIRM PASSWORD<span>*</span></label>
+      <input type="text" id="confirm_password" name="confirm_password" placeholder="**********" minlength="8" maxlength="12"><br>
+    </form>
+    <button type="submit">Create Account</button>
+    <p>Already have an Account? <a href="./login">Log in</a></p>
+  </div>
+</div>
+  
+</body>
+</html>
