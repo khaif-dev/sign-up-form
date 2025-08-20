@@ -108,14 +108,15 @@ input {
   font-size: 1.5rem;
   border-radius: 5px;
 }
-input:focus {
-  border: 1px solid lightskyblue;
-}
+
 input:invalid {
   border: 1px solid red;
 }
 span {
   color: red;
+}
+input:focus {
+  border: 1px solid lightskyblue !important;
 }
 .cfa{
   margin: 2rem 4rem;
