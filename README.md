@@ -17,7 +17,7 @@ A responsive user sign up form created using vanilla HTML and CSS as part of the
 
 ## Preview
 View the live form 
-![image alt]()
+![image alt](https://github.com/khaif-dev/sign-up-form/blob/main/Screenshot%202025-08-20%20083618.png)
 
 
 ## Technologies Used
