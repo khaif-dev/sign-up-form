@@ -16,8 +16,8 @@ A responsive user sign up form created using vanilla HTML and CSS as part of the
 **Clean call-to-action button and login link.**
 
 ## Preview
-View the live form 
-![image alt](https://github.com/khaif-dev/Odin/blob/main/lib/Screenshot%202025-07-25%20095113.png)
+View the live form [here](https://khaif-dev.github.io/sign-up-form/)
+![image alt](https://github.com/khaif-dev/sign-up-form/blob/main/Screenshot%202025-08-20%20083618.png)
 
 
 ## Technologies Used
@@ -25,10 +25,10 @@ View the live form
 * CSS : custom styling, responsive layout, and typography.
 
 ## Future improvements
-Add JavaScript password match validation.
-Add Login form modal.
-Add backend support for actual form submissions.
-Improve accessibility with ARIA labels.
+- Add JavaScript password match validation.
+- Add Login form modal.
+- Add backend support for actual form submissions.
+- Improve accessibility with ARIA labels.
 
 ## 🖥️ How to use
   Clone this repository:
