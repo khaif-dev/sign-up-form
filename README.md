@@ -25,10 +25,10 @@ View the live form [here](https://khaif-dev.github.io/sign-up-form/)
 * CSS : custom styling, responsive layout, and typography.
 
 ## Future improvements
-Add JavaScript password match validation.
-Add Login form modal.
-Add backend support for actual form submissions.
-Improve accessibility with ARIA labels.
+- Add JavaScript password match validation.
+- Add Login form modal.
+- Add backend support for actual form submissions.
+- Improve accessibility with ARIA labels.
 
 ## 🖥️ How to use
   Clone this repository:
