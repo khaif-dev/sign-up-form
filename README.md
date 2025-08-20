@@ -16,7 +16,7 @@ A responsive user sign up form created using vanilla HTML and CSS as part of the
 **Clean call-to-action button and login link.**
 
 ## Preview
-View the live form 
+View the live form ![here](https://khaif-dev.github.io/sign-up-form/)
 ![image alt](https://github.com/khaif-dev/sign-up-form/blob/main/Screenshot%202025-08-20%20083618.png)
 
 
