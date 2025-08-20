@@ -17,7 +17,7 @@ A responsive user sign up form created using vanilla HTML and CSS as part of the
 
 ## Preview
 View the live form 
-![image alt](https://github.com/khaif-dev/Odin/blob/main/lib/Screenshot%202025-07-25%20095113.png)
+![image alt]()
 
 
 ## Technologies Used
