@@ -18,7 +18,9 @@ body {
   background-color: #000000;
   color: #ffffff;
 }
-
+section.active{
+  display: block;
+}
 .container {
   max-width: 1200px;
   width: 90%;
@@ -100,6 +102,13 @@ form h1 {
   font-size: 2rem;
   margin-top: 2rem;
 }
+.login-items{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  font-size: 2rem;
+  margin-top: 2rem;
+}
 label {
   font-size: 1.5rem;
 }
@@ -110,6 +119,7 @@ input {
   height: 3vh;
   font-size: 1.5rem;
   border-radius: 5px;
+  margin-top: 1rem;
 }
 
 input:invalid {
