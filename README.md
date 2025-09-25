@@ -2,7 +2,7 @@
 
 A responsive user sign up form created using vanilla HTML and CSS as part of the [The odin Project's](https://www.theodinproject.com/) Front end curriculum. The project focuses on understanding form element, importing custom fonts, grid and flex in HTML and responsive CSS design by [PLP Africa webTechnologies module](https://github.com/PLP-WebTechnologies). 
 
-## 🚀 Features
+## Features
 **Responsive design** with media queries for mobile, tablet, and desktop.
 **Custom font** (`Norse-Bold.otf`) for the Odin logo.
 **Background image** with overlayed logo.
@@ -17,7 +17,7 @@ A responsive user sign up form created using vanilla HTML and CSS as part of the
 
 ## Preview
 View the live form [here](https://khaif-dev.github.io/sign-up-form/)
-![image alt](https://github.com/khaif-dev/sign-up-form/blob/main/Screenshot%202025-08-20%20083618.png)
+![image alt](https://github.com/khaif-dev/sign-up-form/blob/main/assets/images/Screenshot%202025-08-20%20083618.png)
 
 
 ## Technologies Used
