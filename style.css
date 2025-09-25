@@ -1,3 +1,9 @@
+/* importing the norse bold font */
+@font-face {
+  font-family: 'Norse-Bold';
+  src: url(./assets/fonts/Norse-Bold.otf);
+}
+
 *{
   margin: 0;
   padding: 0;
@@ -34,7 +40,7 @@ body {
 }
 
 .background > img {
-  background-image: url("background.jpg");
+  background-image: url("./assets/images/background.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -59,10 +65,7 @@ body {
 .logo > img {
   height: 80%;
 }
-@font-face {
-  font-family: 'Norse-Bold';
-  src: url(./Norse-Bold.otf);
-}
+
 .logo > h2 {
   font-size: 8rem;
   font-family: 'Norse-Bold';
